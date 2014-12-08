@@ -1,14 +1,9 @@
 # pneumatic
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A Clojure library for piping data around. Work in progress.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Isaac Cambron
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License
